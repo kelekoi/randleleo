@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_1.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_10.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_11.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_12.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_2.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_3.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_4.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_5.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_6.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_7.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_8.xml
+Sitemap : https://randleleo.mysecondarydns.com/sitemap/map0_9.xml
